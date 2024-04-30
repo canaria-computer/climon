@@ -3,6 +3,8 @@ CLIMON
 
 A utility tool that executes arbitrary commands along with file changes, inspired by [nodemon](https://github.com/remy/nodemon).
 
+[日本語ドキュメント](./README-ja.md)
+
 Installation
 ------------
 
