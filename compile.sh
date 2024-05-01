@@ -1,3 +1,6 @@
+mv dist dist_old
+rm dist_old
+
 GOOS=darwin    GOARCH=386   go build -o ./dist/darwin/386/
 GOOS=darwin    GOARCH=amd64 go build -o ./dist/darwin/amd64/
 GOOS=freebsd   GOARCH=386   go build -o ./dist/freebsd/386/
