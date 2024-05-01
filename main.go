@@ -72,7 +72,6 @@ func startSubp(errOut bool, stdOut bool) {
 	out, err := exec.Command(subpCmd, subpArgs...).Output()
 	if err != nil && errOut {
 		log.Fatal("error:", err)
-		os.Exit(1)
 	}
 	if stdOut {
 		fmt.Printf("%s\n", out)
