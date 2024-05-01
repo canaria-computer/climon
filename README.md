@@ -11,8 +11,10 @@ Installation
 It is written on Go and can be used immediately after downloading regardless of dependency.
 See Lily Strag.
 
-Usage
------
+Usage and Demonstration
+-----------------------
+
+![GIF of the demonstration.It can be seen that the Python script is created and executed, but is automatically executed at the same time as saving.](./img/demo.gif)
 
 ```shell
 climon -path='./tmp' -- echo Changed
