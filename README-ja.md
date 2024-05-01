@@ -43,4 +43,4 @@ climon -path='./' -- my-app
 
 このツールは、別のプロジェクトのCLIを開発中に何度も 手動で テスト実行していて WEB開発の時の `nodemon` や `create-react-app` のホットリロード機能が欲しくなったことが理由です。
 
-![CLIMONを使った場合と使わなかった場合の比較。CLIMONを使うと操作する手数が減り便利になると主張している。](./Development-process-Before-After.png)
+![CLIMONを使った場合と使わなかった場合の比較。CLIMONを使うと操作する手数が減り便利になると主張している。](./img/Development-process-Before-After.png)

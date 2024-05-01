@@ -45,4 +45,4 @@ Motivation
 
 This tool has been performing many times while developing the CLI of another project and wanting the automatic re-running function of `nodemon` and`Create-React-app` during the web development.is.
 
-![Comparison between using Climon and not using it.It claims that using Climon will reduce the number of operations and make it convenient.](./Development-process-Before-After.png)
+![Comparison between using Climon and not using it.It claims that using Climon will reduce the number of operations and make it convenient.](./img/Development-process-Before-After.png)
